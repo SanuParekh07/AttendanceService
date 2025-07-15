@@ -1,0 +1,11 @@
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\bin\Debug\net8.0\Attendance.Infrastructure.deps.json
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\bin\Debug\net8.0\Attendance.Infrastructure.dll
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\bin\Debug\net8.0\Attendance.Infrastructure.pdb
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\obj\Debug\net8.0\Attendance.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\obj\Debug\net8.0\Attendance.Infrastructure.AssemblyInfoInputs.cache
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\obj\Debug\net8.0\Attendance.Infrastructure.AssemblyInfo.cs
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\obj\Debug\net8.0\Attendance.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\obj\Debug\net8.0\Attendance.Infrastructure.dll
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\obj\Debug\net8.0\refint\Attendance.Infrastructure.dll
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\obj\Debug\net8.0\Attendance.Infrastructure.pdb
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Infrastructure\obj\Debug\net8.0\ref\Attendance.Infrastructure.dll

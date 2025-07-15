@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Attendance.Infrastructure/1.0.0": {
+        "runtime": {
+          "Attendance.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Attendance.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

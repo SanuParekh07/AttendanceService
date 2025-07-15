@@ -1,0 +1,11 @@
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\bin\Debug\net8.0\Attendance.Persistence.deps.json
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\bin\Debug\net8.0\Attendance.Persistence.dll
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\bin\Debug\net8.0\Attendance.Persistence.pdb
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.AssemblyInfoInputs.cache
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.AssemblyInfo.cs
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.csproj.CoreCompileInputs.cache
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.dll
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\refint\Attendance.Persistence.dll
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.pdb
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\ref\Attendance.Persistence.dll
