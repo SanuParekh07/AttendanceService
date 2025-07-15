@@ -1,0 +1,11 @@
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\bin\Debug\net8.0\Attendance.Domain.deps.json
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\bin\Debug\net8.0\Attendance.Domain.dll
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\bin\Debug\net8.0\Attendance.Domain.pdb
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.AssemblyInfoInputs.cache
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.AssemblyInfo.cs
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.csproj.CoreCompileInputs.cache
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.dll
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\refint\Attendance.Domain.dll
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.pdb
+E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\ref\Attendance.Domain.dll
