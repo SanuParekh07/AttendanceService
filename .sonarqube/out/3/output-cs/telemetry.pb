@@ -1,0 +1,1 @@
+UR?D:\AttendanceService\Attendance.Domain\Attendance.Domain.csproj¢net8.0òCSharp12

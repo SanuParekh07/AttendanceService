@@ -1,0 +1,7 @@
+organization=sanuparekh07
+projectKey=SanuParekh07_AttendanceService
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.65475
+dashboardUrl=https://sonarcloud.io/dashboard?id=SanuParekh07_AttendanceService
+ceTaskId=AZgNcpOhroondIZnJj0x
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZgNcpOhroondIZnJj0x

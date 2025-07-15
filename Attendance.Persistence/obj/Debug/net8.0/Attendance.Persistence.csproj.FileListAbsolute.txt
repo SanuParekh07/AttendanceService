@@ -9,3 +9,15 @@ E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persiste
 E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\refint\Attendance.Persistence.dll
 E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.pdb
 E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\ref\Attendance.Persistence.dll
+D:\AttendanceService\Attendance.Persistence\bin\Debug\net8.0\Attendance.Persistence.deps.json
+D:\AttendanceService\Attendance.Persistence\bin\Debug\net8.0\Attendance.Persistence.dll
+D:\AttendanceService\Attendance.Persistence\bin\Debug\net8.0\Attendance.Persistence.pdb
+D:\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.AssemblyInfoInputs.cache
+D:\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.AssemblyInfo.cs
+D:\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.csproj.CoreCompileInputs.cache
+D:\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.sourcelink.json
+D:\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.dll
+D:\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\refint\Attendance.Persistence.dll
+D:\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\Attendance.Persistence.pdb
+D:\AttendanceService\Attendance.Persistence\obj\Debug\net8.0\ref\Attendance.Persistence.dll

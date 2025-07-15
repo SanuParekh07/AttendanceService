@@ -9,3 +9,15 @@ E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\o
 E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\refint\Attendance.Domain.dll
 E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.pdb
 E:\MyWrk\Practice\PeopleCloud-Projects\API\AttendanceService\Attendance.Domain\obj\Debug\net8.0\ref\Attendance.Domain.dll
+D:\AttendanceService\Attendance.Domain\bin\Debug\net8.0\Attendance.Domain.deps.json
+D:\AttendanceService\Attendance.Domain\bin\Debug\net8.0\Attendance.Domain.dll
+D:\AttendanceService\Attendance.Domain\bin\Debug\net8.0\Attendance.Domain.pdb
+D:\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.AssemblyInfoInputs.cache
+D:\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.AssemblyInfo.cs
+D:\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.csproj.CoreCompileInputs.cache
+D:\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.sourcelink.json
+D:\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.dll
+D:\AttendanceService\Attendance.Domain\obj\Debug\net8.0\refint\Attendance.Domain.dll
+D:\AttendanceService\Attendance.Domain\obj\Debug\net8.0\Attendance.Domain.pdb
+D:\AttendanceService\Attendance.Domain\obj\Debug\net8.0\ref\Attendance.Domain.dll

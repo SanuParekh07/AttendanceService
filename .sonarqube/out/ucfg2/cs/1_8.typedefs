@@ -1,0 +1,16 @@
+1
+Programobject
+	Program()Program.Program()ã
+Attendance.API.WeatherForecastobjectE
+WeatherForecast()0Attendance.API.WeatherForecast.WeatherForecast()3
+Date.get'Attendance.API.WeatherForecast.Date.get3
+Date.set'Attendance.API.WeatherForecast.Date.setC
+TemperatureC.get/Attendance.API.WeatherForecast.TemperatureC.getC
+TemperatureC.set/Attendance.API.WeatherForecast.TemperatureC.setC
+TemperatureF.get/Attendance.API.WeatherForecast.TemperatureF.getC
+TemperatureF.set/Attendance.API.WeatherForecast.TemperatureF.set9
+Summary.get*Attendance.API.WeatherForecast.Summary.get9
+Summary.set*Attendance.API.WeatherForecast.Summary.setÓ
+4Attendance.API.Controllers.WeatherForecastController'Microsoft.AspNetCore.Mvc.ControllerBaseobject¤
+uWeatherForecastController(Microsoft.Extensions.Logging.ILogger<Attendance.API.Controllers.WeatherForecastController>)ªAttendance.API.Controllers.WeatherForecastController.WeatherForecastController(Microsoft.Extensions.Logging.ILogger<Attendance.API.Controllers.WeatherForecastController>)C
+Get():Attendance.API.Controllers.WeatherForecastController.Get()

@@ -1,0 +1,1 @@
+_RID:\AttendanceService\Attendance.Application\Attendance.Application.csproj¢net8.0òCSharp12

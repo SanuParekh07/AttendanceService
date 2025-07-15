@@ -1,0 +1,1 @@
+_RID:\AttendanceService\Attendance.Persistence\Attendance.Persistence.csproj¢net8.0òCSharp12

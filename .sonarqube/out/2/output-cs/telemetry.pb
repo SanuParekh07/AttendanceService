@@ -1,0 +1,1 @@
+eROD:\AttendanceService\Attendance.Infrastructure\Attendance.Infrastructure.csproj¢net8.0òCSharp12

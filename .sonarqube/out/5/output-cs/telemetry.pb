@@ -1,0 +1,1 @@
+SR=D:\AttendanceService\Attendance.Tests\Attendance.Tests.csproj¢net8.0òCSharp12
